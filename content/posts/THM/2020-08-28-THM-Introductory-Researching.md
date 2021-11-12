@@ -1,23 +1,27 @@
 ---
-layout: post
 title: Write-Up [THM] Introductory Researching
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Google]
-featured-image:  thm/intro-research/theme.png
-featured-image-alt: Introductory Researching
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Google"
+social-image: "/media/thm/intro-research/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Introductory Researching](https://tryhackme.com/room/introtoresearch)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 # [Task 1] Introduction
 
-![Task 1](/assets/img/thm/intro-research/task-1.png)
+![Task 1](/media/thm/intro-research/task-1.png)
 
 # [Task 2] Example Research Question
 
 We search in `google` to answer all this questions :
 
-![Answers Task 2](/assets/img/thm/intro-research/answers-2.png)
+![Answers Task 2](/media/thm/intro-research/answers-2.png)
 
 # [Task 3] Vulnerability Searching
 
@@ -32,10 +36,10 @@ The answer to that question lies in website such as :
 
 > `ExploitDB` tends to be very useful for hackers, as it often actually contains exploits that can be downloaded and used straight out of the box. It tends to be one of the first stops when you encounter software in a CTF or pentest.
 
-![Answers Task 3](/assets/img/thm/intro-research/answers-3.png)
+![Answers Task 3](/media/thm/intro-research/answers-3.png)
 
 # [Task 4] Manual Pages
 
 `Manual pages` are available with the `man` command. They give access directly in the terminal to the manual pages for most tools.
 
-![Answers Task 4](/assets/img/thm/intro-research/answers-4.png)
+![Answers Task 4](/media/thm/intro-research/answers-4.png)

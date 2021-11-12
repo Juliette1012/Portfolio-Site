@@ -1,17 +1,22 @@
 ---
-layout: post
 title: Write-Up [THM] Burp Suite
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Burp Suite, Web]
-featured-image:  thm/burp-suite/theme.png
-featured-image-alt: Burp Suite
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Burp Suite"
+  - "Web"
+social-image: "/media/thm/burp-suite/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Burp Suite](https://tryhackme.com/room/rpburpsuite)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Burp Suite](https://tryhackme.com/room/rpburpsuite)
 
 # [Task 1] Intro
 
-![Task 1](/assets/img/thm/burp-suite/task-1.png)
+![Task 1](/media/thm/burp-suite/task-1.png)
 
 # [Task 2] Installation
 
@@ -50,7 +55,7 @@ We install Burp Suite.
 
 # [Task 6] - Proxy
 
-![Task 6](/assets/img/thm/burp-suite/task-6.png)
+![Task 6](/media/thm/burp-suite/task-6.png)
 
 * By default, the Burp Suite proxy listens on only one interface. What is it? Use the format of IP:PORT `127.0.0.1:8080`
 
@@ -68,7 +73,7 @@ We install Burp Suite.
 
 # [Task 7] - Target Definition
 
-![Task 7](/assets/img/thm/burp-suite/task-7.png)
+![Task 7](/media/thm/burp-suite/task-7.png)
 
 * Browse around the rest of the application to build out our page structure in the target tab. Once you've visited most of the pages of the site return to Burp Suite and expand the various levels of the application directory. What do we call this representation of the collective web application? `site map`
 
@@ -78,7 +83,7 @@ We install Burp Suite.
 
 # [Task 8] - Puttin' it on Repeat[er]
 
-![Task 8](/assets/img/thm/burp-suite/task-8.png)
+![Task 8](/media/thm/burp-suite/task-8.png)
 
 * Try logging in with invalid credentials. What error is generated when login fails? `Invalid email or password`
 
@@ -88,7 +93,7 @@ We install Burp Suite.
 
 # [Task 9] - Help ! There's an Intruder !
 
-![Task 9](/assets/img/thm/burp-suite/task-9.png)
+![Task 9](/media/thm/burp-suite/task-9.png)
 
 * Which attack type allows us to select multiple payload sets (one per position) and iterate through them simultaneously? `Pitchfork`
 
@@ -128,7 +133,7 @@ We install Burp Suite.
 
 # [Task 12] - Installing some Mods [Extender]
 
-![Task 12](/assets/img/thm/burp-suite/task-12.png)
+![Task 12](/media/thm/burp-suite/task-12.png)
 
 * Which extension allows us too bookmark various requests? `Boorkmarks`
 

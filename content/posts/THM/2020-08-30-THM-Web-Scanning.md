@@ -1,17 +1,24 @@
 ---
-layout: post
 title: Write-Up [THM] Web Scanning
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Security, Web, App, Scanning]
-featured-image:  thm/web-scanning/theme.png
-featured-image-alt: Web Scanning
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Security"
+  - "Web"
+  - "ScaAppnning"
+  - "Scanning"
+social-image: "/media/thm/web-scanning/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Web Scanning](https://tryhackme.com/room/rpwebscanning)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
 # [Task 1] Pull the lever, Kronk !
 
-![Task 1](/assets/img/thm/web-scanning/task-1.png)
+![Task 1](/media/thm/web-scanning/task-1.png)
 
 We deploy the instance.
 

@@ -1,10 +1,16 @@
 ---
-layout: post
 title: Write-Up [THM] Common Linux Privesc
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Linux, Bash, Privilege Escalation]
-featured-image:  thm/linux-privesc/theme.png
-featured-image-alt: Common Linux privesc
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Linux"
+  - "Bash"
+  - "Privilege Escalation"
+social-image: "/media/thm/linux-privesc/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Common Linux Privesc](https://tryhackme.com/room/commonlinuxprivesc)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Common Linux Privesc](https://tryhackme.com/room/commonlinuxprivesc)
@@ -19,11 +25,11 @@ We deploy the instance.
 
 # [Task 2] Understanding Privesc
 
-![Task 2](/assets/img/thm/linux-privesc/task-2.png)
+![Task 2](/media/thm/linux-privesc/task-2.png)
 
 # [Task 3] Enumeration
 
-![Task 3](/assets/img/thm/linux-privesc/task-3.png)
+![Task 3](/media/thm/linux-privesc/task-3.png)
 
 # [Task 4] - Enumeration
 

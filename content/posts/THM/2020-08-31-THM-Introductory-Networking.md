@@ -1,21 +1,26 @@
 ---
-layout: post
 title: Write-Up [THM] Introductory Networking
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Networking, OSI]
-featured-image:  thm/intro-networking/theme.png
-featured-image-alt: Introductory Networking
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Networking"
+  - "OSI"
+social-image: "/media/thm/intro-networking/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme.com/room/introtonetworking)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme.com/room/introtonetworking)
 
 # [Task 1] Introduction
 
-![Task 1](/assets/img/thm/intro-networking/task-1.png)
+![Task 1](/media/thm/intro-networking/task-1.png)
 
 # [Task 2] - The OSI Model : An Overview
 
-![Task 2](/assets/img/thm/intro-networking/task-2.png)
+![Task 2](/media/thm/intro-networking/task-2.png)
 
 * Which layer would choose to send data over TCP or UDP? `4`
 
@@ -41,7 +46,7 @@ It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme
 
 # [Task 3] - Encapsulation 
 
-![Task 3](/assets/img/thm/intro-networking/task-3.png)
+![Task 3](/media/thm/intro-networking/task-3.png)
 
 * How would you refer to data at layer 2 of the encapsulation process (with the OSI model)? `Frames`
 
@@ -57,9 +62,9 @@ It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme
 
 > The TCP/IP model is, in many ways, very similar to the OSI model. It's a few years older, and serves as the basis for real-world networking. The TCP/IP model consists of four layers: Application, Transport, Internet and Network Interface. Between them, these cover the same range of functions as the seven layers of the OSI Model.
 
-![Task 4](/assets/img/thm/intro-networking/task-4.png)
+![Task 4](/media/thm/intro-networking/task-4.png)
 
-![Syn/ACK](/assets/img/thm/intro-networking/syn-ack.png)
+![Syn/ACK](/media/thm/intro-networking/syn-ack.png)
 
 * Which model was introduced first, OSI or TCP/IP? `TCP/IP`
 
@@ -88,7 +93,7 @@ It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme
 We're going to use Wireshark to get an idea of what these models look like in practice, with real world data.
 We dowload the attached .pcap file (Wireshark capture).
 
-![Task 5](/assets/img/thm/intro-networking/task-5.png)
+![Task 5](/media/thm/intro-networking/task-5.png)
 
 * What is the protocol specified in the section of the request that's linked to the Application layer of the OSI and TCP/IP Models? `Domain Name System`
 
@@ -120,7 +125,7 @@ We're going to look at the `ping` command.
 
 # [Task 7] - Networking Tools : Traceroute
 
-![Task 7](/assets/img/thm/intro-networking/task-7.png)
+![Task 7](/media/thm/intro-networking/task-7.png)
 
 * What switch would you use to specify an interface when using Traceroute? `-i`
 

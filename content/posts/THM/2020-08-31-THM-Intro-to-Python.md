@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Write-Up [THM] Intro to Python
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Python]
-featured-image:  thm/intro-python/theme.png
-featured-image-alt: Intro to Python
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Python"
+social-image: "/media/thm/intro-python/theme.png"
+description: "It's a write-up about the challenge of the room : [Try Hack Me - Room : Intro to Python](https://tryhackme.com/room/intrototopython)"
 ---
 
 It's a write-up about the challenge of the room : [Try Hack Me - Room : Intro to Python](https://tryhackme.com/room/intrototopython)

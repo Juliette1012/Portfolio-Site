@@ -1,25 +1,29 @@
 ---
-layout: post
 title: Write-Up [THM] Google Dorking
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Google]
-featured-image:  thm/google-dorking/theme.png
-featured-image-alt: Google Dorking
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Google"
+social-image: "/media/thm/google-dorking/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Google Dorking](https://tryhackme.com/room/googledorking)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Google Dorking](https://tryhackme.com/room/googledorking)
 
 # [Task 1] Introduction
 
-![Task 1](/assets/img/thm/google-dorking/task-1.png)
+![Task 1](/media/thm/google-dorking/task-1.png)
 
 # [Task 2] Let's Learn About Crawlers
 
-![Crawler](/assets/img/thm/google-dorking/crawler.png)
+![Crawler](/media/thm/google-dorking/crawler.png)
 
 > In the diagram above, the `crawler` initially finds “mywebsite.com”, where it crawls the contents of the website - finding the same keywords (“Apple", “Banana” and “Pear”) as before, but it has additionally found an external URL. Once the crawler is complete on “mywebsite.com”, it'll proceed to crawl the contents of the website “anotherwebsite.com”, where the `keywords` ("Tomatoes", “Strawberries” and “Pineapples”) are found on it. The crawler's dictionary now contains the contents of both “mywebsite.com” and “anotherwebsite.com”, which is then stored and saved within the search engine.
 
-![Answer task 2](/assets/img/thm/google-dorking/answer-2.png)
+![Answer task 2](/media/thm/google-dorking/answer-2.png)
 
 # [Task 3] Enter: Search Engine Optimisation
 
@@ -29,7 +33,7 @@ It's a write-up about the room : [Try Hack Me - Room : Google Dorking](https://t
 
 We use this one, to answer the different questions below : 
 
-![Answer task 3](/assets/img/thm/google-dorking/answer-3.png)
+![Answer task 3](/media/thm/google-dorking/answer-3.png)
 
 # [Task 4] Beepboop - Robots.txt
 
@@ -41,17 +45,17 @@ Thse crawl instructions are specified by `disallowing` or `allowing`the behavior
 
 Robots.txt is similar to `Sitemaps`. This one is located at `http://mywebsite.com/sitemap.xml`. 
 
-![Answer task 4](/assets/img/thm/google-dorking/answer-4.png)
+![Answer task 4](/media/thm/google-dorking/answer-4.png)
 
 # [Task 5] Sitemaps
 
 > `Sitemaps` are indicative resources that are helpful for crawlers, as they specify the necessary routes to find content on the domain. The below illustration is a good example of the structure of a website, and how it may look on a "Sitemap":
 
-![Sitemaps](/assets/img/thm/google-dorking/sitemaps.png)
+![Sitemaps](/media/thm/google-dorking/sitemaps.png)
 
 **The easier a website is to `Crawl`, the more optimised it is for the `Search Engine`.**
 
-![Answer task 5](/assets/img/thm/google-dorking/answer-5.png)
+![Answer task 5](/media/thm/google-dorking/answer-5.png)
 
 # [Task 6] What is Google Dorking ?
 
@@ -59,4 +63,4 @@ Now to the meat of the whole `Google Dorking`/Google Fu by using the index categ
 
 All those crawlers can now be used in reverse uno fashion for your speedy research !
 
-![Answer task 6](/assets/img/thm/google-dorking/answer-6.png)
+![Answer task 6](/media/thm/google-dorking/answer-6.png)

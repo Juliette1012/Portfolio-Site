@@ -1,10 +1,18 @@
 ---
-layout: post
 title: Write-Up [THM] ToolsRus
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Web, dirbuster, nikto, metasploit, hydra]
-featured-image:  thm/toolsRus/theme.png
-featured-image-alt: ToolsRus
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Web"
+  - "dirbuster"
+  - "nikto"
+  - "metasploit"
+  - "hydra"
+social-image: "/media/thm/toolsRus/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : ToolsRus](https://tryhackme.com/room/toolsRus)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : ToolsRus](https://tryhackme.com/room/toolsRus)

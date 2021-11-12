@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Write-Up [THM] Linux Challenges
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Linux, Bash]
-featured-image:  thm/linux-challenges/theme.png
-featured-image-alt: Linux Challenges
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Linux"
+  - "Bash"
+social-image: "/media/thm/linux-challenges/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Linux Challenges](https://tryhackme.com/room/linuxctf)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Linux Challenges](https://tryhackme.com/room/linuxctf)

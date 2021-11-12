@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Write-Up [THM] Web Fundamentals
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Web, Http]
-featured-image:  thm/web-fundamentals/theme.png
-featured-image-alt: Web Fundamentals
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Web"
+  - "Htpp"
+social-image: "/media/thm/web-fundamentals/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Web Fundamentals](https://tryhackme.com/room/webfundamentals)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Web Fundamentals](https://tryhackme.com/room/webfundamentals)
@@ -25,7 +30,7 @@ It's a write-up about the room : [Try Hack Me - Room : Web Fundamentals](https:/
 
 # [Task 3] More Http : Verbs and request format
 
-![Requests](/assets/img/thm/web-fundamentals/requests.png)
+![Requests](/media/thm/web-fundamentals/requests.png)
 
 * What verb would be used for a login? `POST`
 
@@ -33,7 +38,7 @@ It's a write-up about the room : [Try Hack Me - Room : Web Fundamentals](https:/
 
 * Does the body of a GET request matter? Yea/Nay `Nay` 
 
-![Responses](/assets/img/thm/web-fundamentals/responses.png)
+![Responses](/media/thm/web-fundamentals/responses.png)
 
 * What's the status code for "I'm a teapot"? `418` 
 

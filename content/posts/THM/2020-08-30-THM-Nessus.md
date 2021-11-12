@@ -1,23 +1,30 @@
 ---
-layout: post
 title: Write-Up [THM] Nessus
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Security, Nessus, Scanning, Red Primer Series]
-featured-image:  thm/nessus/theme.png
-featured-image-alt: Nessus
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Security"
+  - "Nessus"
+  - "Scanning"
+  - "Red Primer Series"
+social-image: "/media/thm/nessus/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme.com/room/rpnessus)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Nessus](https://tryhackme.com/room/rpnessus)
 
 # [Task 1] Deploy !
 
-![Task 1](/assets/img/thm/nessus/task-1.png)
+![Task 1](/media/thm/nessus/task-1.png)
 
 We deploy the instance.
 
 # [Task 2] Installation
 
-![Task 2](/assets/img/thm/nessus/task-2.png)
+![Task 2](/media/thm/nessus/task-2.png)
 
 # [Task 3] - Nessus Quiz 
 

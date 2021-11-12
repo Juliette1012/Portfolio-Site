@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Write-Up [THM] Learn Linux
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Linux, Bash]
-featured-image:  thm/learn-linux/theme.png
-featured-image-alt: Learn Linux
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Linux"
+  - "Bash"
+social-image: "/media/thm/learn-linux/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Learn Linux](https://tryhackme.com/room/zthlinux)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Learn Linux](https://tryhackme.com/room/zthlinux)
