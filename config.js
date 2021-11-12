@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Juliette Grosset',
+  subtitle: 'PhD student in Computer Science',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,31 +12,35 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
-      label: 'About me',
+      label: 'Home',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Resume',
+      path: '/pages/resume'
+    },
+    {
+      label: 'Research',
+      path: '/pages/research'
+    },
+    {
+      label: 'Posts',
+      path: '/'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Juliette Grosset',
+    photo: '/identite.png',
+    bio: 'PhD student in Computer Science.',
     contacts: {
-      email: '',
+      email: 'jgrosset10@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '#CyberTryHard',
+      github: '#Juliette1012',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: '#juliette-grosset',
       instagram: '#',
       line: '',
       gitlab: '',

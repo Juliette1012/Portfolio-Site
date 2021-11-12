@@ -1,13 +1,15 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/identite.png"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am a **PhD student** at ECAM Rennes and IMT Atlantique from 1 September 2021. 
+I am a member of E4SE team from IRISA lab. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+In august 2021, I defended my engineering internship, entitled `Analysis of activities in a smart home using a digital twin`, conducted in IMT Atlantique at Brest. 
+Therefore, I obtained my **ENIB general engineering** degree and a **research master's degree in Intelligent, Interactive and Autonomous Systems** (SIIA) co-accredited by the UBO, the IMT, the ENSTA and the ENIB. At ENIB, I specialized in interactive application design, artificial intelligence and simulation. The master allowed me to acquire or deepen my skills in AI, multi-agent systems, robotics, virtual reality in particular.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+The **subject of my thesis** is: `Collective Intelligence Strategies for Efficient Autonomous Industrial Vehicles`. The objective is to make scientific contributions to increase the autonomy of autonomous industrial vehicles (AIVs) integrated into a fleet using collective intelligence strategies. In concrete terms, the aim will be to design and develop cooperative algorithms that will dynamically carry out collective geolocation of the AIVs, collective mapping of the environment of these vehicles, collective decision making for adaptation to traffic constraints, and, in an induced way, a collective reduction of the energy impact of the AIVs.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+My current research interests include : *industry 4.0, multi-agent simulation, co-simulation, robotics, cooperative autonomy, and AI*. 
