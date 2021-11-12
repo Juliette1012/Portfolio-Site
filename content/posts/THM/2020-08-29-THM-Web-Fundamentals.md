@@ -48,7 +48,7 @@ We used this website : [mozilla](https://developer.mozilla.org/en-US/docs/Web/HT
 
 # [Task 4] Cookies, tasty !
 
-![Cookies](/assets/img/thm/web-fundamentals/cookies.png)
+![Cookies](/media/thm/web-fundamentals/cookies.png)
 
 # [Task 5] Mini CTF
 

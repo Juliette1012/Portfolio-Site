@@ -19,7 +19,7 @@ It's a write-up about the room : [Try Hack Me - Room : ToolsRus](https://tryhack
 
 # [Task 1] ToysRus
 
-![Task 1](/assets/img/thm/toolsRus/task-1.png)
+![Task 1](/media/thm/toolsRus/task-1.png)
 
 
 First, we deploy the machine.

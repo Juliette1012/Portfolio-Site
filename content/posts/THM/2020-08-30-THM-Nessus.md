@@ -64,7 +64,7 @@ We deploy the instance.
 
 We can add `SMTP` functionality into your Nessus install.
 
-![Task 5](/assets/img/thm/nessus/task-5.png)
+![Task 5](/media/thm/nessus/task-5.png)
 
 # [Task 6] - So you're telling me that's how you set up a web app...
 
