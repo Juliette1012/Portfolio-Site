@@ -8,7 +8,7 @@ tags:
   - "Unity"
   - "C#"
 social-image: "/media/tartine/player.png"
-description: "`Les aventures de Tartine` is a 2D platformer game developped using Unity by Valentin Rapine, Corentin Aubrun and myself during the lockdown of 2020.
+description: "Les aventures de Tartine is a 2D platformer game developped using Unity by Valentin Rapine, Corentin Aubrun and myself during the lockdown of 2020.
 You are Tartine. You start the game in a cave and your goal is to reach the surface, avoiding the dangers you can find underground like monsters, gap or lava."
 ---
 
