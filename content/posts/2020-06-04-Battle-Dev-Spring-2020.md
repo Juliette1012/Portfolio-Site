@@ -1,7 +1,7 @@
 ---
 title: BattleDev Spring 2020
 template: "post"
-date: "2021-11-12"
+date: "2021-06-04"
 draft: false
 category: "Dev"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: A 2D Platformer Game
 template: "post"
-date: "2021-11-12"
+date: "2020-08-27"
 draft: false
 category: "Dev"
 tags:
