@@ -5,12 +5,16 @@ socialImage: "/identite.png"
 ---
 
 # Education
+## University of Brest - IMT Atlantique - ENSTA - ENIB
+*2020: research master - Intelligent, Interactive and Autonomous Systems (SIIA)*
+- Artificial intelligence, multi-agent systems, VR, AR, HMI, robotics
+
 ## Brest National Engineering School - Brest, France
-*2016-2019 : Ecole Nationale d'Ingénieurs de Brest (ENIB)*
+*2016-2021 : Specialised module - Interactive Application Design, Artificial Intelligence and Simulation*
 - Study of Computer Science, Electronics and Mechatronics 
 - School over 5 years
 
-## University of Sherbrooke - Sherbrooke, Canada (Québec)
+## University of Sherbrooke - Sherbrooke (Québec), Canada
 *2018 - 4 months : Université de Sherbrooke (UdeS)*
 - Semester of academic exchange
 - Academic project : analyze and simulate the complete flight of a Falcon 9 type rocket carrier (use of Simulink, Matlab)
@@ -52,9 +56,6 @@ Methodological and organizational help
 *2018 - June (1 month) : Worker internship*
 - Checking the orders
 - Perform inventory tasks
-
-## DLB Traiteur - Pleumeleuc, France
-*2017 - August : Work at the factory*
 
 
 # French CV
