@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/pages/about',
   title: 'Juliette Grosset',
   subtitle: 'PhD student in Computer Science',
   copyright: '© All rights reserved.',
