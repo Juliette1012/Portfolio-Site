@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Write-Up [THM] WebAppSec 101
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, WebApplication]
-featured-image:  thm/webappsec101/theme.png
-featured-image-alt: WebApplication 101
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "WebApplication"
+social-image: "/media/thm/webappsec101/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : WebAppSec 101](https://tryhackme.com/room/webappsec101)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : WebAppSec 101](https://tryhackme.com/room/webappsec101)

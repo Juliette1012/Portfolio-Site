@@ -1,10 +1,17 @@
 ---
-layout: post
 title: Write-Up [THM] Scripting
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Python, Scripting, Cryptography, Security]
-featured-image:  thm/scripting/theme.png
-featured-image-alt: Scripting
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Python"
+  - "Scripting"
+  - "Cryptography"
+  - "Security"
+social-image: "/media/thm/scripting/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Scripting](https://tryhackme.com/room/scripting)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Scripting](https://tryhackme.com/room/scripting)

@@ -1,10 +1,16 @@
 ---
-layout: post
 title: Write-Up [THM] Metasploit
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Networking, Red Primer Series, Metasploit]
-featured-image:  thm/metasploit/theme.png
-featured-image-alt: Metasploit
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Networking"
+  - "Red Primer Series"
+  - "Metasploit"
+social-image: "/media/thm/metasploit/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Metasploit](https://tryhackme.com/room/rpmetasploit)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Metasploit](https://tryhackme.com/room/rpmetasploit)
@@ -56,7 +62,7 @@ We used the command : `db_status`and found the type of database used by Metasplo
 
 # [Task 4] - Module for every Occasion!
 
-![Task 4](/assets/img/thm/metasploit/task-4.png)
+![Task 4](/media/thm/metasploit/task-4.png)
 
 * Easily the most common module utilized, which module holds all of the exploit code we will use? `exploit`
 
@@ -74,7 +80,7 @@ We used the command : `db_status`and found the type of database used by Metasplo
 
 # [Task 5] - Move that shell!
 
-![Task 5](/assets/img/thm/metasploit/task-5.png)
+![Task 5](/media/thm/metasploit/task-5.png)
 
 We use the command `db_nmap -sV BOX-IP`.
 

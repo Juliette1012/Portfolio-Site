@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Write-Up [THM] CC-Steganography
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Steganography]
-featured-image:  thm/cc-steganography/theme.png
-featured-image-alt: CC-Steganography
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Steganography"
+social-image: "/media/thm/cc-steganography/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : CC-Steganography](https://tryhackme.com/room/ccstego)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : CC-Steganography](https://tryhackme.com/room/ccstego)

@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Write-Up [THM] LFI Basics
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, LFI]
-featured-image:  thm/lfiBasics/theme.png
-featured-image-alt: LFI Basics
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "LFI"
+social-image: "/media/thm/lfiBasics/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : LFI Basics](https://tryhackme.com/room/lfibasics)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : LFI Basics](https://tryhackme.com/room/lfibasics)

@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Write-Up [THM] OhSINT
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, CTF, OhSINT]
-featured-image:  thm/ohsint/theme.png
-featured-image-alt: OhSINT
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "CTF"
+  - "OhSINT"
+social-image: "/media/thm/ohsint/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : OhSINT](https://tryhackme.com/room/ohsint)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : OhSINT](https://tryhackme.com/room/ohsint)

@@ -1,10 +1,17 @@
 ---
-layout: post
 title: Write-Up [THM] Network Services
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Networking, SMB, Telnet, FTP]
-featured-image:  thm/network-services/theme.png
-featured-image-alt: Network Services
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Networking"
+  - "SMB"
+  - "Telnet"
+  - "FTP"
+social-image: "/media/thm/network-services/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Network Services](https://tryhackme.com/room/networkservices)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Network Services](https://tryhackme.com/room/networkservices)
@@ -15,7 +22,7 @@ It's a write-up about the room : [Try Hack Me - Room : Network Services](https:/
 
 # [Task 2] - Understanding SMB
 
-![Task 1](/assets/img/thm/network-services/task-1.png)
+![Task 1](/media/thm/network-services/task-1.png)
 
 * What does SMB stand for? `Server Message Block`
 
@@ -27,7 +34,7 @@ It's a write-up about the room : [Try Hack Me - Room : Network Services](https:/
 
 # [Task 3] - Enumerating SMB
 
-![Task 3](/assets/img/thm/network-services/task-3.png)
+![Task 3](/media/thm/network-services/task-3.png)
 
 We scan all ports using `sudo nmap -sV -sC ip_machine`
 
@@ -45,7 +52,7 @@ We scan all ports using `sudo nmap -sV -sC ip_machine`
 
 # [Task 4] - Exploiting SMB
 
-![Task 4](/assets/img/thm/network-services/task-4.png)
+![Task 4](/media/thm/network-services/task-4.png)
 
 * What would be the correct syntax to access an SMB share called "secret" as user "suit" on a machine with the IP 10.10.10.2 on the default port?
 
@@ -110,7 +117,7 @@ The flag is `THM{smb_is_fun_eh?}`.
 
 # [Task 5] - Understanding Telnet
 
-![Task 5](/assets/img/thm/network-services/task-5.png)
+![Task 5](/media/thm/network-services/task-5.png)
 
 * What is Telnet? `application protocol`
 
@@ -148,7 +155,7 @@ We use : `nmap -A ip_machine` and find `0` port opened.
 
 > Telnet, being a protocol, is in and of itself insecure for the reasons we talked about earlier. It lacks encryption, so sends all communication over plaintext, and for the most part has poor access control.
 
-![Task 7](/assets/img/thm/network-services/task-7.png)
+![Task 7](/media/thm/network-services/task-7.png)
 
 * Great! It's an open telnet connection! What welcome message do we receive? `Skidy's backdoor`
 
@@ -187,7 +194,7 @@ We read it and the content is `THM{y0u_g0t_th3_t3ln3t_fl4g}`.
 
 # [Task 8] - Understanding FTP
 
-![Task 8](/assets/img/thm/network-services/task-8.png)
+![Task 8](/media/thm/network-services/task-8.png)
 
 * What communications model does FTP use? `client-server`
 
@@ -265,7 +272,7 @@ A possible username can be `Mike`.
 
 # [Task 10] - Exploiting FTP
 
-![Task 10](/assets/img/thm/network-services/task-10.png)
+![Task 10](/media/thm/network-services/task-10.png)
 
 * What is the password for the user "mike"?
 

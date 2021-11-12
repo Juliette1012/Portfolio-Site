@@ -1,10 +1,17 @@
 ---
-layout: post
 title: Write-Up [THM] Networking
-categories: [Write-Ups, TryHackMe]
-tags: [TryHackMe, Networking, subnet, cisco, routing]
-featured-image:  thm/networking/theme.png
-featured-image-alt: Networking
+template: "post"
+date: "2020-08-28"
+draft: false
+category: "Write-Ups, TryHackMe"
+tags:
+  - "TryHackMe"
+  - "Networking"
+  - "subnet"
+  - "cisco"
+  - "routing"
+social-image: "/media/thm/networking/theme.png"
+description: "It's a write-up about the room : [Try Hack Me - Room : Networking](https://tryhackme.com/room/bpnetworking)"
 ---
 
 It's a write-up about the room : [Try Hack Me - Room : Networking](https://tryhackme.com/room/bpnetworking)
@@ -13,7 +20,7 @@ It's a write-up about the room : [Try Hack Me - Room : Networking](https://tryha
 
 > In a manner similar to streets and homes, computers and their respective communication networks must have a way to address their 'mail'. In the following set of questions, we'll investigate the various types of IPv4 addresses.
 
-![Task 1](/assets/img/thm/networking/task-1.png)
+![Task 1](/media/thm/networking/task-1.png)
 
 * How many categories of IPv4 addresses are there? `5`
 
@@ -41,7 +48,7 @@ It's a write-up about the room : [Try Hack Me - Room : Networking](https://tryha
 
 # [Task 2] - Binary to Decimal
 
-![Task 2](/assets/img/thm/networking/task-2.png)
+![Task 2](/media/thm/networking/task-2.png)
 
 We convert this following binary values into decimal.
 
